@@ -7,7 +7,7 @@ This application allows the user to enter their text into the text area and, usi
 
 ## Demo project
 
-Demo: https://dmitriystepanov601.github.io/TTS_Converter/
+Demo: https://dmitriystepanov601.github.io/TTS_Converter_App/
 
 ## Technologies
 
