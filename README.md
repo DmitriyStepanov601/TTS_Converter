@@ -1,4 +1,3 @@
-# TTS-Converter
 ## Project Description
 
 In this application, the user enters some text into the text area, then selects a voice assistant that will play this text and clicks the listen to text button.
